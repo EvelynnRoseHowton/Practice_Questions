@@ -1,0 +1,48 @@
+🌶️ Write a Python program that prints each item and its corresponding type from the following list.
+Sample List: datalist = [1452, 11.23, 1+2j, True, 'w3resource', (0, -1), [5, 12], {"class":'V', "section":'A'}]
+    
+
+🌶️ Write a Python program to sum all the items in a list.
+Sample List: [5,8,3,7]
+Sample Output: 23
+
+        
+🌶️ Write a Python program to multiply all the items in a list.
+Sample List: [5,8,3,7]
+Sample Output: 840
+      
+        
+🌶️🌶️ Write a Python program to get the largest number from a list.
+Sample List: [5,8,3,7]
+Sample Output: 8
+   
+        
+🌶️ Write a Python program to get the smallest number from a list.
+Sample List*: 
+Sample Output:
+    
+        
+5. 🌶️ Write a Python program to count the number of strings where the string length is 2 or more and the first and last character are same (ex. ‘aba’ and not ‘abc’) from a given list of strings.
+Sample List: ['abc', 'xyz', 'aba', '1221']
+Sample Output: 2
+  
+        
+6. 🌶️🌶️Write a Python program to get a list, sorted in increasing order by the last element in each tuple from a given list of non-empty tuples.
+Sample List: [(2, 5), (1, 2), (4, 4), (2, 3), (2, 1)]
+Sample Output: [(2, 1), (1, 2), (2, 3), (4, 4), (2, 5)]
+    
+        
+7. 🌶️🌶️ Write a Python program to remove duplicates from a list.
+Sample List: [2, 4, 10, 20, 5, 2, 20, 4]
+Sample Output: [5,8,3,7]
+    
+        
+8. 🌶️ Write a Python program to check a list is empty or not. True, False.
+
+        
+9. 🌶️ Write a Python program to clone or copy a list.
+ 
+        
+10. 🌶️ Write a Python program to find the list of words that are longer than n from a given string of words
+    
+    
