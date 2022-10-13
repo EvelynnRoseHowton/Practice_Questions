@@ -1,0 +1,105 @@
+1. 🌶️ Write a Python script to add a item to a dictionary
+Sample Input*: {0: 10, 1: 20}
+    Sample Output: {0: 10, 1: 20, 2: 30}
+
+2. 🌶️ Write a Python script called **dict_concat()** to concatenate any number of dictionaries as arguments to create a new one.
+Sample Input*: 
+dic1={1:10, 2:20}
+dic2={3:30, 4:40}
+dic3={5:50,6:60}
+Sample Output: {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
+    -Part1. As an exercise, write a function called sumall that takes any number of arguments and returns their sum.     
+    -Part2. Answer
+    
+        
+3. 🌶️ Write a Python script called **key_checker()** to check whether a given **key** already exists in a dictionary.
+    Sample Input: 
+    >>>key_checker(dic1, 2)
+    True
+    >>> key_checker(dic1, 5)
+    False
+    
+        
+4. 🌶️ Write a Python script called **value_checker()** to check whether a given **value** already exists in a dictionary. Raise a LookupError() if there’s no value.
+Sample Input*: value_checker({1:10, 2:20}, 20))
+Sample Output:
+    *OPTIONS*: 
+    Using .values() method
+    No methods used
+ 
+ 
+5. 🌶️ Write a Python script to called **get_value_for_key()** check what the value is for a given key in a dictionary. 
+Sample Input: **get_value_for_key(**dict1, key**)**
+OPTIONS: 
+    Using .get() method
+    No methods used
+
+        
+        The raise statement causes an exception; in this case it causes a LookupError, which is a built-in exception used to indicate that a lookup operation failed.
+        
+6. 🌶️ Write a Python program to iterate over dictionaries using for loops.
+Sample Input: d = {'x': 10, 'y': 20, 'z': 30}
+Sample Output: 
+    x -> 10
+    y -> 20
+    z -> 30
+
+        
+7. 🌶️ Write a Python script called **exponent_dict(n)** to generate and print a dictionary that contains a number (between 1 and n) in the form (x, x*x).
+Sample Input*: exponent_dict(n = 5) :
+Sample Output: {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
+    
+
+        
+8. 🌶️ Write a Python script to merge two Python dictionaries. 
+Sample Input: 
+d1 = {'a': 100, 'b': 200}
+d2 = {'x': 300, 'y': 200}
+Sample Output:
+{'x': 300, 'y': 200, 'a': 100, 'b': 200}
+
+        
+9. 🌶️ Write a Python program to iterate over dictionaries using for loops.
+    
+    Sample Input: d = {'Red': 1, 'Green': 2, 'Blue': 3}
+    Sample Output:
+    Red corresponds to  1
+    Green corresponds to  2
+    Blue corresponds to  3
+    
+        
+10. 🌶️🌶️ Write a Python program called **dict_sum()** to sum all the values in a dictionary. 
+    
+    *Sample Input*: 
+    >>> dic1 = {'data1':100,'data2':-54,'data3':247}
+    >>> dict_sum(dic1)
+    293
+    *OPTIONS:*
+    Using sum() without looping
+    Using sum() with looping
+    Not using sum()
+    
+    
+        
+11. 🌶️ Write a Python program called **dict_mult()** to multiply all the items in a dictionary.
+Sample Input: 
+>>> dic1 = {'data1':100,'data2':-54,'data3':247}
+>>> dict_mult(dic1)
+
+12. 🌶️🌶️ Write a Python script to invert a dictionary to a dictionary with lists
+Sample Input*: invert_dict({'a': 1, 'p': 1, 'r': 2, 't': 1, 'o': 1})
+Sample Output: {1: ['a', 'p', 't', 'o'], 2: ['r']}
+
+        
+13. 🌶️🌶️ Write a Python script to output a histogram of keys (alphabetical order) and values for a given word. 
+Sample Input*: histogram('brontosaurus')
+    Sample Output: 
+    
+    a 1
+    o 1
+    p 1
+    r 2
+    t 1
+    
+    …
+
