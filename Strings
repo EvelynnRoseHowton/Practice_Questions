@@ -1,0 +1,68 @@
+🌶️ Write a Python program to calculate the length of a string. 
+
+
+🌶️ Write a Python program to count the number of characters (character frequency) in a string.
+Sample String : google.com'
+Expected Result : {'g': 2, 'o': 3, 'l': 1, 'e': 1, '.': 1, 'c': 1, 'm': 1}
+
+
+🌶️ Write a Python program to get a string made of the first 2 and the last 2 chars from a given a string. 
+If the string length is less than 2, return instead of the empty string. 
+Sample String : 'w3resource'
+Expected Result : 'w3ce'
+Sample String : 'w3'
+Expected Result : 'w3w3'
+Sample String : ' w'
+Expected Result : Empty String
+
+
+🌶️ Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '$', 
+except the first char itself. 
+Sample String : 'restart'
+Expected Result : 'resta$t'
+
+
+🌶️ Write a Python program to get a single string from two given strings, separated by a space and swap the first two characters of each string.
+Sample String : 'abc', 'xyz'
+Expected Result : 'xyc abz'
+
+
+🌶️ Write a Python program to add 'ing' at the end of a given string (length should be at least 3).
+If the given string already ends with 'ing' then add 'ly' instead. If the string length of the given string is less than 3, leave it unchanged. 
+Sample String : 'abc'
+Expected Result : 'abcing'
+Sample String : 'string'
+Expected Result : 'stringly'
+
+🌶️🌶️🌶️Write a Python program that accepts a word from the user and reverse it.
+A. Using range()
+B. Not using range
+C. Using the slice ([]) operator
+D. Using while loop
+E. Using reverse function with join
+
+🌶️ You need to create an if statement to send accurate alerts to passengers. 
+`boarding_call="Good Evening, this is the final call to AL passengers for the flight AL 466 which is planned to take off at 8.40A.M."`
+    1. Oh no! Replace Good Evening with Good Morning in the below boarding call string. You would use two string functions. 
+    2.  Check if the string has “AL”. If so, then print "Welcome to Air Lines." in the consol. You would use one string functions. 
+    3.  Check if the string says AM or PM. If AM print “Passengers are requested to have their breakfast.”
+
+🌶️ Write a Python program to change a given string to a new string where the first and last chars have been exchanged. 
+
+
+🌶️ Write a Python program to remove the characters which have odd index values of a given string.
+
+
+🌶️ Write a Python program to count the occurrences of each word in a given sentence
+
+
+🌶️ Write a Python script that takes input from the user and displays that input back in upper and lower cases.
+
+
+🌶️ Write a Python function to reverses a string if it's length is a multiple of 4.
+
+
+🌶️ Write a Python function to create the HTML string with tags around the word(s). 
+Sample function and result :
+add_tags('i', 'Python') -> '<i>Python</i>'
+add_tags('b', 'Python Tutorial') -> '<b>Python Tutorial </b>'
