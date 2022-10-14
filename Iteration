@@ -1,3 +1,69 @@
+### There are types you can iterate in a for loop: string, list, a list produced by range, dictionary, etc. 
+
+🌶️ 1. Print all the 💚numbers💚 from 0 to 5 using a for loop.
+        a. Using a list [0,1,2,3,4,5]
+        b. Using range
+Sample Output:
+    0
+    1
+    ...
+    5
+
+
+🌶️ Print all the 💚numbers💚 from 2 to 7 using a for loop. 
+        a. Using a list [2,3,4,5,6,7]
+        b. Using range
+Sample Output:
+    2
+    3
+    ...
+    9
+
+🌶️Print all each letter in the 🟠list🟠 'R', 'o', 's', 'e', ' ', 'H', 'o', 'w', 't', 'o', 'n'], using a for loop.
+        a. Using the list: ['R', 'o', 's', 'e', ' ', 'H', 'o', 'w', 't', 'o', 'n']
+        b. Using range with the length of the string
+Sample Output:
+    N
+    O
+    ...
+    O
+    R
+    
+🌶️Print all each letter in the 🟠list🟠 ['R', 'o', 's', 'e', ' ', 'H', 'o', 'w', 't', 'o', 'n','12312312'] backwards, using a for loop.
+        a. Using the list: ['R', 'o', 's', 'e', ' ', 'H', 'o', 'w', 't', 'o', 'n','12312312']
+        b. Using range with the length of the string
+Sample Output:
+    N
+    O
+    ...
+    O
+    R
+
+🌶️Print all each letter in the 🟣string🟣 "Rose Howton" using a for loop.
+        a. Using the string: "Rose Howton"
+        b. Using range with the length of the string
+            Note: If you're getting numbers from b, you're missing a crutial point! 
+            Hint [] <- use me to print letters using range() for strings and lists!
+Sample Output:
+    R
+    O
+    ...
+    N
+
+### Now that you know the basics of iterating through strings, list of numbers using range, and lists, time to do cool stuff with it:
+
+🌶️Print all each letter in the 🟣string🟣 "Rose Howton" backwards, using a for loop.
+        a. Using the string: "Rose Howton"
+        b. Using range with the length of the string
+Sample Output:
+    N
+    O
+    ...
+    O
+    R
+
+
+
 🌶️Write a Python program to construct the following pattern, using a nested loop number.
 Expected Output:
 1
